@@ -40,7 +40,7 @@
                     "client_secret": "VfvTM297IX0VAkgYNzZUchnSsY50wSaY",
                     "uat_client_secret": "hRguAj0P4DBy6OqlrHThXGDaGv2x54zk",
 					  "redirect_url": "narapp://com.isbank.nar",
-					"unSecuredPages": ["rootqjson","testqjson","testPage2qjson"],
+					
 					"realm": "kayseriseker",
 					"clientId": "ui-smartfarmui-client",
 					"onLoad": "check-sso",
